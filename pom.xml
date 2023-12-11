@@ -163,7 +163,7 @@
     </build>
 	<repositories>
     <repository>
-      <id>${NEXUS-GRP-REPO}</id>
+      <id>maven</id>
       <url>http://13.239.27.84:8081/repository/vprofile-relese-snapshot/</url>
     </repository>
   </repositories>
