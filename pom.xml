@@ -164,7 +164,7 @@
 	<repositories>
     <repository>
       <id>${NEXUS-GRP-REPO}</id>
-      <url>http://${NEXUSIP}:${NEXUSPORT}/repository/${NEXUS-GRP-REPO}/</url>
+      <url>http://13.239.27.84:8081/repository/vprofile-relese-snapshot/</url>
     </repository>
   </repositories>
 </project>
