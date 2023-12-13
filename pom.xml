@@ -164,7 +164,7 @@
 	<repositories>
     <repository>
       <id>maven</id>
-      <url>http://13.239.27.84:8081/repository/vprofile-relese-snapshot/</url>
+      <url>http://3.106.228.123:8081//repository/vprofile-relese-snapshot/</url>
     </repository>
   </repositories>
 </project>
